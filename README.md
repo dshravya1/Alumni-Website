@@ -1,4 +1,6 @@
-Software required:
+This project would provide a web application (to maintain an alumni network) where the alumnus can register and access (login/logout) the website using their account. An admin can create various clubs which the alumni can join. Also, they can follow other alumni, organize events, post job opportunities and attend various events. Current students are also able to follow the alumni and connect with them through the website
+
+**Software required:**
 1. Visual Studio Code (version 1.45.1+)
 2. IntelliJ (version 2020.1.1 community edition or above)
 3. MySQL Workbench (version 8.0.20 or above)
